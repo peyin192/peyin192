@@ -1,7 +1,12 @@
-<div align="center">
+## Stack
 
-# PEYIN
+C#
+TypeScript
+JavaScript
+C
 
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&width=700&lines=Software+Engineering.;Game+Development.;Building+tools+and+experiences.;Always+learning." />
+HTML
+CSS
 
-</div>
+Currently exploring software engineering
+and game development.
